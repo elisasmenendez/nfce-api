@@ -1,6 +1,6 @@
 # NFC-e API
 
-Objetivo desse projeto foi desenvolver uma simples API para recuperar informações de Notas Fiscais Eletrônicas (NFC-e), já que quando acessamos o link do QRCode de uma nota fiscal nos deparamos com uma página HTML.
+Objetivo desse projeto foi desenvolver uma simples API para recuperar informações de Notas Fiscais Eletrônicas (NFC-e), já que, quando acessamos o link do QRCode de uma nota fiscal, nos deparamos com uma página HTML.
 
 - Atenção: essa API foi testada e validada somente com notas fiscais dos estados de Sergipe e São Paulo. Também constatamos que não funciona com notas fiscais do estado da Paraíba.
 
